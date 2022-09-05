@@ -12,3 +12,4 @@ export default function AuthenticatedRoute({ children }) {
 
   return children;
 }
+h

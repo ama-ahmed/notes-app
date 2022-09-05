@@ -28,3 +28,4 @@ export function flush(e) {
   logs.forEach(({ date, string }) => console.debug(date, string));
   console.error(e);
 }
+h

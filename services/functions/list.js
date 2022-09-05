@@ -20,3 +20,4 @@ export const main = handler(async (event) => {
   // Return the matching list of items in response body
   return result.Items;
 });
+h
