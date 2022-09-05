@@ -40,4 +40,3 @@ export function onError(error) {
 
   alert(message);
 }
-h

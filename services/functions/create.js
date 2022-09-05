@@ -20,4 +20,3 @@ export const main = handler(async (event) => {
 
   return params.Item;
 });
-h

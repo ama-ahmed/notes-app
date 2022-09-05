@@ -27,4 +27,3 @@ export function FrontendStack({ stack, app }) {
     SiteUrl: site.url,
   });
 }
-h

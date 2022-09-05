@@ -13,4 +13,3 @@ export default function main(app) {
   });
   app.stack(StorageStack).stack(ApiStack).stack(AuthStack).stack(FrontendStack);
 }
-h

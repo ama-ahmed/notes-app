@@ -27,4 +27,3 @@ export const main = handler(async (event) => {
 
   return { status: true };
 });
-h

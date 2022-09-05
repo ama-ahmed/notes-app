@@ -38,4 +38,3 @@ export function AuthStack({ stack, app }) {
     auth,
   };
 }
-h

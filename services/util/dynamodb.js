@@ -9,4 +9,3 @@ export default {
   update: (params) => client.update(params).promise(),
   delete: (params) => client.delete(params).promise(),
 };
-h

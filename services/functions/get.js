@@ -19,4 +19,3 @@ export const main = handler(async (event) => {
   // Return the retrieved item
   return result.Item;
 });
-h
